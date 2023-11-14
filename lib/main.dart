@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:roziroti_assignment/views/account_screen.dart';
-import 'package:roziroti_assignment/views/auth_screen.dart';
 import 'package:roziroti_assignment/views/bottom_bar.dart';
-import 'package:roziroti_assignment/views/profile_screen.dart';
 
 void main() {
   runApp(const MyApp());
