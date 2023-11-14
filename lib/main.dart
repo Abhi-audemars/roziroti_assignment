@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:roziroti_assignment/views/auth_screen.dart';
 import 'package:roziroti_assignment/views/bottom_bar.dart';
 
 void main() {
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: BottomBar(),
+      home:const AuthScreen(),
     );
   }
 }

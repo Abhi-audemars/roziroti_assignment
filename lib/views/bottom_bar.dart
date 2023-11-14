@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:roziroti_assignment/views/account_screen.dart';
-import 'package:roziroti_assignment/views/profile_screen.dart';
+import 'package:roziroti_assignment/views/home_screen.dart';
 
 class BottomBar extends StatefulWidget {
   BottomBar({super.key});
